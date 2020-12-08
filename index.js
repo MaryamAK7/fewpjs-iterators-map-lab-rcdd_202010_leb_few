@@ -22,5 +22,5 @@ const titleCased = (tutorials) => {
   })
 }
 
-console.log(titleCased(tutorials))
+
     
